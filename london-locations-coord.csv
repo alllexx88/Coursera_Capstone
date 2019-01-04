@@ -44,7 +44,7 @@ Belvedere,51.484496,0.152794
 Bermondsey,51.488775,-0.077722
 Berrylands,51.401097,-0.299687
 Bethnal Green,51.532296,-0.064283
-Bexley (also Old Bexley, Bexley Village),51.440245,0.123941
+"Bexley (also Old Bexley, Bexley Village)",51.440245,0.123941
 Bexleyheath (also Bexley New Town),51.463537,0.133786
 Bickley,51.405997,0.039095
 Biggin Hill,51.321215,0.032726
@@ -74,7 +74,7 @@ Brondesbury,51.547298,-0.216889
 Brunswick Park,51.625995,-0.156388
 Bulls Cross,51.581377,0.004042
 Burnt Oak,51.612999,-0.262883
-Burroughs, The,51.515597,-0.092005
+"Burroughs, The",51.515597,-0.092005
 Camberwell,51.472997,-0.092284
 Cambridge Heath,51.515597,-0.092005
 Camden Town,51.539254,-0.142617
@@ -474,8 +474,8 @@ Surbiton,51.399996,-0.300388
 Surrey Quays,51.310046,-0.060385
 Sutton,51.351938,-0.191709
 Swiss Cottage,51.543595,-0.174426
-Sydenham (also Lower Sydenham, Upper Sydenham) (Lewisham),51.432996,-0.059388
-Sydenham (also Lower Sydenham, Upper Sydenham) (Bromley),51.432996,-0.059388
+"Sydenham (also Lower Sydenham, Upper Sydenham) (Lewisham)",51.432996,-0.059388
+"Sydenham (also Lower Sydenham, Upper Sydenham) (Bromley)",51.432996,-0.059388
 Sydenham Hill (Lewisham),51.440525,-0.059424
 Sydenham Hill (Southwark),51.440525,-0.059424
 Teddington,51.428498,-0.322387
@@ -559,4 +559,3 @@ Worcester Park (Kingston upon Thames),51.382697,-0.243488
 Wormwood Scrubs,51.507351,-0.12766
 Yeading,51.521565,-0.393184
 Yiewsley,51.515496,-0.472882
-
