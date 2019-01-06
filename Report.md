@@ -38,8 +38,6 @@ The London areas table scraped from wikipedia ([Wikipedia - List of areas of Lon
 
 Comma (with a possible space after it) and ampersand (`Islington & City`), on the other hand, are indeed borough names separators. Hence, we first replace `Camden and Islington` and `Haringey and Barnet` entries with `Camden,Islington` and `Haringey,Barnet`, respectively, and then do the split.
 
-To resolve this, a list of London boroughs is also scraped from Wikipedia into a table (T2) and boroughs in T1 are checked against T2. If a match is not found, the borough string is split on commas and the check is repeated. If that also fails, the string is also split on "and" and he check is repeated. This iterative process yielded accurate results.
-
 Also, some locations in the ares table from wikipedia have duplicate names (but different boroughs), so we rename them to "location (borough)" too.
 
 Then we use the boroughs table from wikipedia ([Wikipedia - List of London boroughs](https://en.wikipedia.org/wiki/List_of_London_boroughs)) to extract the table of London boroughs and their co-ordinates. We use this table to check for borough entries validity in the areas table. We find out that we have one illegal borough -- Dartford -- that does not formally belong to London but Kent. Hence we removed the respective table row.
